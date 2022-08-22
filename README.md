@@ -1,3 +1,3 @@
 # git_test
-My fitst GitHub repo!
+My fiest GitHub repo!
 Hello Odin!
